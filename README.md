@@ -28,6 +28,8 @@ This project identifies Indian currency notes from uploaded images using a Convo
 The model was trained using **transfer learning** on a custom dataset of Indian currency notes, categorized by denomination.
 
 ### 📂 Dataset Structure
+Dataset - https://www.kaggle.com/datasets/vishalmane109/indian-currency-note-images-dataset-2020
+
 Indian currency dataset v1/
 ├── training/
 │ ├── 10/
@@ -43,7 +45,11 @@ Indian currency dataset v1/
 
 ## 🧪 How to get started
 -clone the repository
--import the dataset and save it in project folder
+
+-download and import the dataset and save it in project folder
+
 -install all the requirements
+
 -run "streamlit app.py" 
+
 -good to go
