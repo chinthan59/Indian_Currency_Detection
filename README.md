@@ -42,8 +42,8 @@ Indian currency dataset v1/
 └── test/
 
 ## 🧪 How to get started
-clone the repository
-import the dataset and save it in project folder
-install all the requirements
-run "streamlit app.py" 
-good to go
+-clone the repository
+-import the dataset and save it in project folder
+-install all the requirements
+-run "streamlit app.py" 
+-good to go
