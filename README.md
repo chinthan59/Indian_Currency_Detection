@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Currency Recognition using Deep Learning
+# 🇮🇳 Indian Currency Recognition using CNN
 
 This project identifies Indian currency notes from uploaded images using a Convolutional Neural Network with MobileNetV2 and provides a user-friendly interface through Streamlit. It also includes text-to-speech functionality to announce the prediction.
 
